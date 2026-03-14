@@ -50,6 +50,7 @@ try:
             print("\n")
             accountant.main()
         
+        #Exit the Program
         elif function_choice == 6:
             print("\nExiting the program")
             break
