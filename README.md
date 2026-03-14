@@ -1,4 +1,4 @@
-# Python Group Assignment
+# Univeresity Management System
 
 ## Overview
 This repository contains a Python group assignment developed as part of a university coursework project.  
